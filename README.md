@@ -1,0 +1,2 @@
+# ANALISIS-BIOINFORMATIKA-DATA-MICROARRAY-HASIL-ANALISIS-EKSPRESI-GEN-KANKER-PARU-
+Ini adalah Repositori saya tentang Analisis Bioinformatika Data Mikroarray (Hasil Analisis Ekspresi Gen Kanker Paru), yang didalamnya terdapat beberapa komponen utama: Laporan hasil analisis, Script analisis yang digunakan, Dataset yang dianalisis (terdapat pada laporan hasil dan script analisis), seluruh visualisasi atau plot hasil analisis.
